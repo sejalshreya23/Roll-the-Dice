@@ -1,0 +1,26 @@
+.container {
+  width :70%;
+  margin: auto;
+  text-align:center;
+}
+.dice{
+  text-align:center;
+  display: inline-block;
+}
+body{
+  background-color: #BFEAF5;
+}
+h1{
+  margin: 30px;
+  font-family: 'Safira', cursive;
+  font-size: 8rem;
+  color: #3F0071;
+}
+p{
+  font-size: 2rem;
+  color: #3F0071;
+  font-family: 'Indie Flower', cursive;
+}
+img{
+  width: 80%;
+}
